@@ -23,6 +23,8 @@ Fetch: Downloads objects and references from another repository
 
 Remote: Manage set of tracked repositories
 
+When you start Github, first you will need a repository. To make one, go to file, then select new repository. Input the repository name and select the other options accordingly. Then click, create repository. To make the repository available on Github.com, click the publish repository button. If you make any changes to the repository, you must commit the changes, which can be done by pressing the commit changes button. to clone a repository, go to file then select "Clone Repository". To push changes, go to the repository option and select "Push". You can also make new branches and merge branches using their respective options in the branch option in the top menu.
+
 References:
 https://guides.github.com/activities/hello-world/ : GITHUB, Repository, Branch, Commit, Pull, Merge definitions
 https://help.github.com/en/articles/pushing-to-a-remote Push definition
