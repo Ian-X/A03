@@ -1,11 +1,11 @@
 # A03
-GIT:
+GIT: distributed version control tool that manages a development project's source code history. Installed locally tomanage source code
 
-GITHUB: a code hosting platform for version control and collaboration.
+GITHUB: a cloud-based code hosting platform for version control and collaboration.
 
 Repository: Used to organize a project. Contains folders and files, images, videos, etc.
 
-Clone:
+Clone: clones repository into a newly created repository. Creates remote tracking branches for each branch in cloned repository
 
 Commit: saves changes on the current branch
 
@@ -17,13 +17,17 @@ Branch: a different instance of a repository to work on. A copy of the main or m
 
 Merge: merges changes to the master branch
 
-Merge Conflict:
+Merge Conflict: the same lines in a file are changed and both are attempted to be merged
 
-Fetch:
+Fetch: Downloads objects and references from another repository
 
-Remote:
+Remote: Manage set of tracked repositories
 
 References:
 https://guides.github.com/activities/hello-world/ : GITHUB, Repository, Branch, Commit, Pull, Merge definitions
-
 https://help.github.com/en/articles/pushing-to-a-remote Push definition
+https://www.theserverside.com/video/Git-vs-GitHub-What-is-the-difference-between-them : GIT Definition
+https://git-scm.com/docs/git-clone : Clone definition
+https://git-scm.com/docs/git-fetch : Fetch definition
+https://git-scm.com/docs/git-remote : Remote definiton
+https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts : merge conflict definition
